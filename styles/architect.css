@@ -155,6 +155,7 @@ align-items: center;
 .facts-card-container{
     display:flex;
     justify-content: space-around;
+   padding-top: 50px;
 }
 
 .facts-card-container .card{
@@ -180,6 +181,7 @@ padding:30px;
 
 .sponsors{
     text-align: center;
+    
 }
 .sponsors-img-container{
    margin-top: 50px;
